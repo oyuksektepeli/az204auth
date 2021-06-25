@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cfHnxBlvFigNdsTKcNas1wZttppTNiEqUutgRXqwoERbBUXH71gqbvUd5abV8jyssyZnxI65I5v80gypvLzHBQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\az204auth\\az204auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oyuks\\.nuget\\packages\\microsoft.identity.client\\4.32.1\\microsoft.identity.client.4.32.1.nupkg.sha512"
+  ],
+  "logs": []
+}
